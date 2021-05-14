@@ -1,7 +1,10 @@
 package com.hgn.personsportsapi.entities;
 
-import com.hgn.personsportsapi.enums.*;
-import lombok.*;
+import com.hgn.personsportsapi.enums.NivelAtleta;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 
